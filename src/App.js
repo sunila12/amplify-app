@@ -4,6 +4,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src="https://media.giphy.com/media/yoJC2GnSClbPOkV0eA/giphy.gif" alt="logo" />
+        <h2>I love Coffee !</h2>
         </header>
     </div>
   );
